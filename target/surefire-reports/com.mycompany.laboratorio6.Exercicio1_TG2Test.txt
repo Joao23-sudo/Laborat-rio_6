@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.laboratorio6.Exercicio1_TG2Test
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec <<< FAILURE!
+com.mycompany.laboratorio6.Exercicio1_TG2Test.testEmprestimoValido()  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at com.mycompany.laboratorio6.Exercicio1_TG2.aprovaEmprestimo(Exercicio1_TG2.java:15)
+	at com.mycompany.laboratorio6.Exercicio1_TG2Test.testEmprestimoValido(Exercicio1_TG2Test.java:29)
+
