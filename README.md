@@ -1,1 +1,1 @@
-# Laborat-rio_6
+# Laboratorio_6
